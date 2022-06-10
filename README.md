@@ -6,9 +6,7 @@ In this work, we explore the properties of a \\( \beta \\)-VAE. We explore when 
 
 ## Datasets
 
-There are three analytical datasets with each their folder. 
-
-We work on three datasets of analytical functions where the degrees of freedom are known. The datasets are shown in the figure below. The first is a dataset of a sine function where only the frequency changes, this is given by
+There are three analytical datasets shown in the figure below. The first is a dataset of a sine function where only the frequency changes, this is given by
 
 $$ y = \sin(ft), \quad \text{for} \quad t \in [0, 2\pi]. $$
 
@@ -20,10 +18,10 @@ We now have two degrees of freedom, the frequency \\( f \in [2, 3.5] \\) and the
 
 $$ \Theta(t) = \exp(-\frac{b}{2t}) \cos( \sqrt{ \kappa - \frac{b^2}{4} } t), \quad \text{for} \quad t \in [0, 5]. $$
 
-The two degrees of freedom are \\( b \in [0.5, 1] \\) and \\( \kappa \in [5, 10] \\). For each dataset, we create 100 000 samples with different degrees of freedom.
+The two degrees of freedom are \\( b \in [0.5, 1] \\) and \\( \kappa \in [5, 10] \\). The results are stored in a folder for each dataset.
 
-![fig](../img/beta-VAE/figure_2.png)
+![fig](../figure.png)
 
 ## Thanks for reading
 
-![Panda](https://github.com/Joeri38/beta-VAE/blob/master/panda.gif)
+![Panda](../panda.gif)
