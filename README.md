@@ -20,8 +20,8 @@ $$ \Theta(t) = \exp(-\frac{b}{2t}) \cos( \sqrt{ \kappa - \frac{b^2}{4} } t), \qu
 
 The two degrees of freedom are \\( b \in [0.5, 1] \\) and \\( \kappa \in [5, 10] \\). The results are stored in a folder for each dataset.
 
-![fig](../figure.png)
+![fig](./figure.png)
 
 ## Thanks for reading
 
-![Panda](../panda.gif)
+![Panda](./panda.gif)
