@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/joeri/Documents/Phd year 1/beta-VAE/nn_physical_concepts/tf_save/oscillator_50_seed_4.ckpt"
+all_model_checkpoint_paths: "/Users/joeri/Documents/Phd year 1/beta-VAE/nn_physical_concepts/tf_save/oscillator_50_seed_4.ckpt"
