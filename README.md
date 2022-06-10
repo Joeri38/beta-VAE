@@ -7,4 +7,4 @@ In this work, we explore the properties of a \\( \beta \\)-VAE. We explore when 
 
 ## Thanks for reading
 
-![Panda](https://tenor.com/btXEE.gif)
+![Panda](https://github.com/Joeri38/inverse-design/blob/master/panda.gif)
